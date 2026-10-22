@@ -1,0 +1,8 @@
+# Python generated files
+__pycache__/
+
+# Log files
+*.log
+
+# Private files
+secrets.txt
